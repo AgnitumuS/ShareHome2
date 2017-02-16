@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\sa_imb.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="c0509c82018a30e157e7a2c609f00b943752ce1e">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\sa_imb_56b1f1823ec2940dc38978d92847bd524138c940.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\sci_uportal.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="1c785ac6d14482365d90c1361c80510fb022d0fa">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\sci_uportal_28e4b79a200022a15f595908552289023abf6ab4.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\sci_meeting.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="a2cbbd9852e1c485832940f66cea3ff74c93ac9e">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\sci_meeting_9d6191cd39cae8a5a57ec22ae8e4c872a7b9939b.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\uspepipe.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="d205d7aa8f24c94736a194dc7d1a8fcda3698099">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\uspepipe_ddf8e1cb57f2bfef523ec6d81641b14c47a00ee6.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\sa_media_rmt.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="b6d01e1c0e93c641f36e0eb4ea04fbfd32a936bf">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\sa_media_rmt_9742ae7484698788d4a10ab800dabfbb3bb3a7f6.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\HME_Audio.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="f5126619482454dca3652df8d87c47c1fad74665">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\HME_Audio_1057f9ddf766dd551b6c599dd948213612021369.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\sci_pres.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="ae017432618eceaa3c36ea07d8dc5edcbb8db165">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\sci_pres_a940816fba20c45c3e5a7eda4ecad199ae86fa1a.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="e7eabbabd81c3bf17a3ee36737b9f9be7311dea6">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_be8807159023a9f7b0cbd5ec31702d88d2b147db.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\sa_im.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="2065552d72b766c77810492fe37963d94bf25f84">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\sa_im_726261cc09a94dfa72c55bfe8652b16da20c1a6f.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\sci_imb.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="c850fbd389f8a0d3e73e159c341e3ea95b7e6715">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\sci_imb_a649ed35a0db4d07aa4e0f7360e14e52ee2dd691.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\sa_base.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="c71a4e4c94a70bb3620dd95867f93504185e3368">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\sa_base_58600153a8ee74021426f9e63db21762b58ec2eb.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\sci_im.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="ece67a199acd6d19ea38d814d9e598364b8fe70a">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\sci_im_073b11694fee4648dc252adc9d9fff8443b04de9.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\sa_nat_stg.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="a84d351f6ba62aacada817524f2577038443b64f">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\sa_nat_stg_48088d3dafdf56614788066f1c47e246ac57ce02.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\converter-gson-2.1.0.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\converter-gson-2.1.0_f71d2992debae03cc85f6c8a82938cb8424f8712.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\sa_analysis.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="3bb2507c4e8d6bce5c4bf4267971038e837534a4">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\sa_analysis_7b2bb21ea89881508104219ef1eb93a91277c647.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\gson-2.7.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\gson-2.7_ee28facb904648040f03207cb816aaf377ce00f9.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\picasso-2.5.2.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_93281ae7adb7e912660b2d6a44964c7ad98b93e0.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\sa_svn_stg.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="fe18a4738631424265414cde8d89b4327b8cf77f">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\sa_svn_stg_11ba99ff7b60e3bf9307e5fe7ccf681cd0747242.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\android-support-v4.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="4a6be13368bb64c5a0b0460632d228a1a915f58f">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\android-support-v4_b837401094978c321cd5741ad04e9e660c44ccad.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\uspdma.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="9d9082c824c5a82ca8f0f5afa386a7dab58b2686">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\uspdma_6bc9cacbc283e6501c15208a597d017bde50a671.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\sa_aidl.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="32abb263c60c8d150386dd37bf4fd2be34b5c788">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\sa_aidl_29fb325b2e99dd1ed404401c4fc52c956c318cec.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\uspbase.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="1bffe01c9512ffc369eb756d723e10f8abf0c4dc">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\uspbase_ec93f5e4bfd229e6c6543fc2284f303c8ffde4ac.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\sa_uportal.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="4350e3afdb8ed38d616a85a5d1f84f4e832a5f0c">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\sa_uportal_7ce4e44b27e7c2ed893965687690d050da352911.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\HME_Video.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="04f9316d7d9a24fe67cc49052f95f0e235ca5300">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\HME_Video_43226e15aad284a216ca2257d016ad71e21077dc.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\rxandroid-0.24.0.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="42dab493b8f74b164e082f281480c9d493ff89da">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\rxandroid-0.24.0_8215a3542c3ac281e2b2281d7794fad3ffe65381.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="1ccd6ef2f6b0788723de6822280cf84f3ab7ec05">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\instant-run_23da346ad68655955582bdf0f00cef6c4ba659e9.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\pinyin4j-2.5.1.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="ea23babfc45a078af5b73cd9f3401caad1f1b2a9">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\pinyin4j-2.5.1_cce48a53f1194b8a24ccec0aed7d0d7be44835e1.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\sa_omp.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="e2ca19fd6cdf697e8b59b8d490a8f5472a2659f0">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\sa_omp_b08b058a247cb8b2ae548626b2af315a6ce8ad73.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\sci_base.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="e81aefc52551accb75a298fdf572ca94e6eacae1">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\sci_base_654bf8fb1952f9c25e3f7a37740935e83525781d.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\sci_push.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="ef9d54b95ea8b0f30ee4d6b9c80e89667332631e">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\sci_push_c482856f5b9a2ed4f1a90254b52c2d4407751711.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\support-annotations-21.0.0-rc1.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="57c343f05b73b923bf2502b05851dbfe12193dcb">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.0-rc1_1836259843de50f4731614af17ac8679c6365b5a.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\sa_group.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="955d6b24bdd536972bf572d7f97c1ebcfa14f6c9">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\sa_group_1ed10505668c5da457883b032c308e0720dee2fa.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\okhttp-3.2.0.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\okhttp-3.2.0_6031f50e8af9838a97bc0bca8db3eb626217a176.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\sci_default_tls.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="e1ff5ac7f37b536416b91b930dd0ed922fec6616">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\sci_default_tls_b73ee3989c4847f4db7b6d88423d4ae10b3557fb.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Test\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="aa06f33541bf428aba0d1d04e6b8ad6a436a7faf">
+        <dex dex="D:\Android\ShareHome_SDK\Test\app\build\intermediates\pre-dexed\debug\instant-run_94eb395173f79cab374fc9b1207291b8a8a6dc92.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\greendao-2.0.0.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="5f49dd477c1621dfaf0f7fe5d755fe4f07526af2">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\greendao-2.0.0_bb4fd74289fa41e7e7f1cb6ee91e6e460a38010e.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\retrofit-2.1.0.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\retrofit-2.1.0_9124e6fcfa4ba3d3a7493d71541a4c39197061b0.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\okhttputils-1.5.2.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="114099d49670ebc2c1d73ed1e9b31a174d32ffb8">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\okhttputils-1.5.2_349b107b3251081b2cf979cf6269705555f73f20.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\uspimbs.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="f2c1be2fa8082ef43d2d8ab9b49e3571d1fe5604">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\uspimbs_7aa1739a3556d54b7b9ab3d6542e393dc46ae684.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\sa_socks5.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="e032019bc03e62dc363607d3e96b1f3c82dc3a80">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\sa_socks5_06c33dfa3ca3c7c660d5b8f505d1298eb0cdcfc9.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\uspstg.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="81c547e883d75dd99a6ef923a473d2d62ea4fd03">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\uspstg_657ccb59818c76c3732c2ebc8ef616911fd37f48.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\sa_nab.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="6fcf217bc2a50bb2c32f27e7c45b749a6374b3d4">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\sa_nab_fe7357800ae1aff7b1feec5dfdc438a25057da71.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\sci_call.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="43b1e2e7a1d4c6e2908f4d866e3201bce5990b27">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\sci_call_ec6a898f1dcee49a4c6c9bb742cf17ccd53205b0.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\uspuportal.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="4f7840b434c65c89eadfac86e9347a3834e3d652">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\uspuportal_460317e2ea38a197051cbac3f72549b5c19254e7.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\sa_http.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="cab7cf214556dcf434922b0c37fd973bd34d1d2b">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\sa_http_8b2cf363274f520f8fadc03543e0d859317ab294.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\sci_hme_video.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="e6ad85a5f72999a09272e9fe8dd96495235679fa">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\sci_hme_video_bc7dc318627031967434c82de647ea4a7723a795.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\sa_call.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="b91e1b6c7108ace50145a0d070d10e26008e5247">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\sa_call_2f7b7a6084a4c304d89ce54440dc55f65b7beae0.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\sa_epipe.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="cee2ccface12c20a446b920e93551d5e32b83870">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\sa_epipe_11725af3b835eb279743444db14371b3e167c56c.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\sunjce_provider.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="2357317d1e1f14937b3bda942c58791ee1dba581">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\sunjce_provider_aa80672c3e4e03417d61817481da9e1261cd94c4.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Test\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="37a474194a110f2bbd735c33bad2778a546d4807">
+        <dex dex="D:\Android\ShareHome_SDK\Test\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_85a5afb3344ded7496cf1b2ff8d31c8ce64538e8.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\sa_hme_audio.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="a5abe656cb136cf23c25c4a1dc64a34be5ef04cb">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\sa_hme_audio_9bd9a71d4cfeecb03a0ccd79e5e934675260c988.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\sa_imbs.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="a9322cd2767d5fbcda90611cb80ef20c1d38dfbb">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\sa_imbs_b7c33ac853b096e66086394ae7d0521b5730fc65.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\okio-1.6.0.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\okio-1.6.0_4faff370c6f52bae57b74923b6a27032d9f6a226.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\sa_eab.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="030996225861b8eeb70764f9e1a268dff259b778">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\sa_eab_0786c68599d09c47043ee93fe3d3d070ecf13918.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\usplogin.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="7f98ffb0da512a13e32bf62f81dac39269b9463c">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\usplogin_4b8b1be3107e88fd03c81e670d43513d27065399.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\sa_hme_video.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="e5e76ef6a950d5dd7b9b6ba7dadaae47e6057002">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\sa_hme_video_c3675006c2edb4c1a3ebaab1ff9b1216386790b6.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\uspimb.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="bb303a7e098d3bfca2ce8c69e457547a6e0db0f0">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\uspimb_12771e4b20a249c1f93521311ece1a16dc428500.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\sa_tsc_stg.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="e9e3d845e19eb0ea338346a3e441fb503c620841">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\sa_tsc_stg_91c7af6707b7369a1f7c36ba0b33279a38e69925.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\sci_hme_audio.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="83a873de74a389b594ec534581763c5ca32aa1b1">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\sci_hme_audio_65ec37e6d60b129b3d7eb9fa8a5be3f0fc80bf21.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\sa_push.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="8ded8da347e358178012f88ef6ecfbfe30941e73">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\sa_push_3159dac6f5ea160156b6ca5ee7b2fbf21c990dd8.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\uspsocks5.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="0f870c8f11b22ff947500153db8f97005cbd95ba">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\uspsocks5_0609649445afcb77e435f85f8572a94ee2346c7f.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\sci_nab.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="dd8f400b79f47102cb26e65091034f935b8929bc">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\sci_nab_8a58fac60e0ccab3b53f2d1779c044f1491b896b.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\gradle-wrapper.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="d5f2cff8bfce6bd848ee3dceb06393502f78ca7c">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\gradle-wrapper_b80ba76ad83e28a45fcac2d8dcb640dbb8dd7011.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\sa_contact.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="e13f1d0030ccfd3eb8b7badf1356ac052e59dae0">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\sa_contact_8f22980af6926215376edfb4f902186d7d8d616e.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\uspmediarmt.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="b4a0825f9df06318f111200454d559e2921129fe">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\uspmediarmt_8d8862d6b64daa8c3ef7f6cf9b1d9dc82fc72238.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\uspwatcher.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="c6d18bde101e9f6919522a46058d631ff6477cf6">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\uspwatcher_bb0d0b6c57c2410b21124d271494ecd3caba8ded.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\rxjava-1.1.0.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="748f0546d5c3c27f1aef07270ffea0c45f0c42a4">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\rxjava-1.1.0_d20cc98f6065ef6688e5284e39d05f4e1a163b94.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\sa_default_tls.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="e023f4b331bff176e71ff2680d0cb7636c571843">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\sa_default_tls_6d066d18b6489a77d25b72652de1e48561e142c0.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\sci_eab.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="2f0ead02b6a8a61364b3754d67a01957b6c58793">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\sci_eab_498abd58564b2420815d03252da4117988917e1f.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\uspmqtt.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="dd2adccac445646191655f57aef7bbb106d8343b">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\uspmqtt_92f8be0ba6ac962cf9d872bfaa5928d8bd5d0e4f.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\uspomp.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="748deb36f354546539e21763958225606f631e37">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\uspomp_1c184ec54c883c2d5bc42534b00a45f91b5af919.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\sa_meeting.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="348957a5a2f8a45fb39f1fed65961c37f07d2057">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\sa_meeting_a6855279dfb69ce8911bdffd222cef237ea56787.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\sa_stun.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="30259f5acfa2e805a1472cdfc1029afdb09e47ca">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\sa_stun_49f225ad898e4b81a3f840b99148602a6579458b.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\vunke_sharehome_sdk.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="ae8635dd5e1ab05d271f4e435cae07a787b6d7e7">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\vunke_sharehome_sdk_83fe575e27d7ec7d1e771eb3873fa3aec4b0fbf7.jar" />
+    </item>
+    <item
+        jar="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\libs\sci_group.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="603fce3c24f47c59eb406aeeb9489f57d4b03e1d">
+        <dex dex="D:\Android\ShareHome_SDK\Project3\ShareHome2\app\build\intermediates\pre-dexed\debug\sci_group_736b9f90fb8cd44c97dbaba848b1f6f0fbad04e5.jar" />
+    </item>
+
+</items>
